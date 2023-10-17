@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhackaMoleProject</string>
+    <string name="whack_a_mole">Whack A Mole</string>
+    <string name="time">Time:</string>
+    <string name="zero">0</string>
+    <string name="score">Score:</string>
+    <string name="game_over">Game Over</string>
+    <string name="reason">Reason</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="str_end_lives">You ran out of lives!</string>
+
+</resources>
